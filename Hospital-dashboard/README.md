@@ -12,7 +12,7 @@ MySQL Views: Includes pre-defined views for medical stock information and integr
 
 Installation
 
-Clone the repository:git clone https://github.com/SuhailX45/hospital-dashboard.git
+Clone the repository:git clone https://github.com/maantyagi/Hospital_Dashboard
 
 
 Navigate to the project directory:cd hospital-dashboard
